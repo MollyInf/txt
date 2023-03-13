@@ -19,8 +19,8 @@ h1 {
     font-size: large;
     align-self: center;
 }
-img{
-    width: 25%;
+.profile{
+    height: 100%;
     object-fit: contain;
 }
 #aka {
