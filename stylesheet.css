@@ -6,7 +6,7 @@ h1 {
     width: fit-content;
 }
 .info{
-    width: fit-content;
+    width: max-content;
     padding: 20px;
     background-color: darkolivegreen;
     margin: 10px;
