@@ -8,6 +8,7 @@ h1 {
 }
 .info{
     width: max-content;
+    height: fit-content;
     padding: 20px;
     background-color: darkolivegreen;
     margin: 10px;
