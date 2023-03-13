@@ -1,6 +1,15 @@
 a:hover {
-    background-color: yellow;
+    color: yellow;
 }
-title {
-    color: aqua;
+h1 {
+    background-color: aqua;
+}
+#aka {
+    font-style: italic;
+    color: lightpink;
+}
+.info{
+    width: max-content;
+    border: 5px solid darkolivegreen;
+    margin: 10px;
 }
