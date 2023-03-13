@@ -5,11 +5,15 @@ h1 {
     background-color: aqua;
 }
 #aka {
-    font-style: italic;
     color: lightpink;
 }
 .info{
     width: max-content;
-    border: 5px solid darkolivegreen;
+    background-color: darkolivegreen;
     margin: 10px;
+    color: white;
+}
+img{
+    width: 80%;
+    object-fit: contain;
 }
