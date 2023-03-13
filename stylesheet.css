@@ -22,6 +22,6 @@ img{
     font-style: italic;
 }
 .member{
-    font-style: oblique;
-    /* display: inline; */
+    /* font-style: oblique; */
+    display: inline;
 }
