@@ -3,11 +3,12 @@ a:hover {
 }
 h1 {
     background-color: aqua;
-    width: min-content;
+    width: fit-content;
 }
 .info{
     width: fit-content;
-    padding-right: 10px;
+    padding: 20px;
+    padding-left: 0px;
     background-color: darkolivegreen;
     margin: 10px;
     color: white;
