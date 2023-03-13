@@ -13,14 +13,14 @@ h1 {
     height: fit-content;
     padding: 20px;
     background-color: darkolivegreen;
-    margin: 20px;
+    margin: 30px;
     color: white;
     font-style: normal;
     font-size: large;
     align-self: center;
 }
 img{
-    width: 35%;
+    width: 45%;
     object-fit: contain;
 }
 #aka {
