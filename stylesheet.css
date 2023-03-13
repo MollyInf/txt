@@ -15,12 +15,12 @@ h1 {
     color: darkolivegreen;
     margin: 10px;
     /* color: white; */
-    font-style: bold;
+    font-style: normal;
     font-size: large;
     align-self: center;
 }
 img{
-    width: 35%;
+    width: 25%;
     object-fit: contain;
 }
 #aka {
