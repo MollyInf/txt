@@ -3,7 +3,7 @@ a:hover {
 }
 h1 {
     background-color: aqua;
-    width: fit-content;
+    width: min-content;
 }
 .info{
     width: fit-content;
