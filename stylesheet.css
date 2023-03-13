@@ -19,9 +19,8 @@ h1 {
     vertical-align:middle;
 }
 img{
-    width: 50%;
+    width: 30%;
     object-fit: contain;
-    background-color: aqua;
 }
 #aka {
     color: lightslategray;
@@ -31,5 +30,4 @@ img{
     /* font-style: oblique; */
     display: inline-flex;
     height: 150px;
-    background-color: blue;
 }
