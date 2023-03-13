@@ -5,6 +5,7 @@ h1 {
     background-color: darkolivegreen;
     color: white;
     width: fit-content;
+    padding: 20px;
 }
 .info{
     width: max-content;
@@ -19,6 +20,7 @@ h1 {
 img{
     width: 100%;
     object-fit: contain;
+    background-color: aqua;
 }
 #aka {
     color: lightslategray;
@@ -28,4 +30,5 @@ img{
     /* font-style: oblique; */
     display: inline-flex;
     height: 150px;
+    background-color: blue;
 }
