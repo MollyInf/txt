@@ -14,6 +14,7 @@ h1 {
     margin: 10px;
     color: white;
     font-style: normal;
+    vertical-align:middle;
 }
 img{
     /* width: 300px; */
