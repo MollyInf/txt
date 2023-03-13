@@ -2,7 +2,7 @@ a:hover {
     color: yellow;
 }
 h1 {
-    background-color: aqua;
+    background-color: darkolivegreen;
     width: fit-content;
 }
 .info{
@@ -18,7 +18,7 @@ img{
     object-fit: contain;
 }
 #aka {
-    color: lightpink;
+    color: lightslategray;
     font-style: italic;
 }
 .member{
