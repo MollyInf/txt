@@ -11,16 +11,16 @@ h1 {
 .info{
     width: max-content;
     height: fit-content;
-    padding: 20px;
+    /* padding: 20px; */
     color: darkolivegreen;
-    margin: 30px;
+    margin: 10px;
     /* color: white; */
-    font-style: normal;
+    font-style: bold;
     font-size: large;
     align-self: center;
 }
 img{
-    width: 45%;
+    width: 35%;
     object-fit: contain;
 }
 #aka {
