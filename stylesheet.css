@@ -11,7 +11,7 @@ h1 {
 .info{
     width: max-content;
     height: fit-content;
-    padding: 30px;
+    padding: 20px;
     background-color: darkolivegreen;
     margin: 20px;
     color: white;
@@ -20,7 +20,7 @@ h1 {
     align-self: center;
 }
 img{
-    width: 25%;
+    width: 35%;
     object-fit: contain;
 }
 #aka {
