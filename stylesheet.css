@@ -3,12 +3,14 @@ a:hover {
 }
 h1 {
     background-color: aqua;
+    width: fit-content;
 }
 #aka {
     color: lightpink;
 }
 .info{
-    width: max-content;
+    width: fit-content;
+    padding-right: 10px;
     background-color: darkolivegreen;
     margin: 10px;
     color: white;
