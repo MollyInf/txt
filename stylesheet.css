@@ -19,4 +19,9 @@ img{
 }
 #aka {
     color: lightpink;
+    font-style: italic;
+}
+.member{
+    font-style: oblique;
+    display: inline;
 }
