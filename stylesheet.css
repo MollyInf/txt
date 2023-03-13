@@ -23,5 +23,5 @@ img{
 }
 .member{
     font-style: oblique;
-    display: inline;
+    /* display: inline; */
 }
